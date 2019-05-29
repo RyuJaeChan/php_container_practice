@@ -1,0 +1,17 @@
+{
+    "name": "com2us/wor",
+    "description": "basic training development project",
+    "authors": [
+        {
+            "name": "유재찬",
+            "email": "wocks@com2us.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+           "wor\\" : "src/"
+        }
+    },
+
+    "require": {}
+}
